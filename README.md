@@ -8,4 +8,5 @@ Features include:
  - Graceful fallback responses for unknown queries
  - Modular OOP-based design for maintainability
  - Uses ArrayList and HashMap for storing patterns and responses
+
 This project demonstrates basic AI concepts implemented in Java without external libraries, making it beginner-friendly and easy to understand.
