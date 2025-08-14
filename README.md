@@ -1,12 +1,14 @@
-# CodeAlpha_AIChatbox
-CodeAlpha Java Programming Internship Task_3
+# CodeAlpha_ArtificialIntelliegenceChatbot
+A desktop-based chatbot application built with Java Swing. It uses simple Natural Language Processing through keyword matching to enable interactive conversations with users.
 
-A console-based Java application that simulates human-like conversations using keyword matching and simple natural language processing logic.
-Features include:
- - Real-time user interaction via console input
- - Context-based replies with keyword detection
- - Graceful fallback responses for unknown queries
- - Modular OOP-based design for maintainability
- - Uses ArrayList and HashMap for storing patterns and responses
+Core Features:
+- Basic NLP with keyword recognition and response matching
+- User-friendly GUI chat interface using Java Swing
+- Predefined FAQ-style responses for common queries
+- Easily extendable logic for adding new keywords and replies
 
-This project demonstrates basic AI concepts implemented in Java without external libraries, making it beginner-friendly and easy to understand.
+Tech Stack:
+- Language: Java
+- Framework: Swing (for GUI)
+- Concepts: Simple NLP with keyword matching
+- Interface: Desktop GUI
